@@ -1,0 +1,11 @@
+.loader {
+  position: fixed;
+  height: 100%;
+  width: 100%;
+  background-color: white;
+  z-index: 999999;
+}
+.loaderimg {
+  text-align: center;
+  margin: 15%;
+}
